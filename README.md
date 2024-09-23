@@ -1,7 +1,7 @@
 ![Header](./github-header-image3.png)
 
 # 💫 About Me:
-🔭 I’m currently working on myVisitme.be<br>🌱 I’m currently learning Express.js & React.js<br>⚡ Fun fact : I love going to the gym<br>📫 How to reach me : terry.henrard@outlook.com
+🔭 I’m currently working on myVisitme.be<br>🌱 I’m currently learning Next.JS<br>⚡ Fun fact : I love going to the gym<br>📫 How to reach me : terry.henrard@outlook.com
 
 
 ## 🌐 Socials:
