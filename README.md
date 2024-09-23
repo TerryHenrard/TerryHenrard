@@ -1,12 +1,13 @@
 ![Header](./github-header-image3.png)
 
+```
      _                  ____            _       _   
     | | __ ___   ____ _/ ___|  ___ _ __(_)_ __ | |_ 
  _  | |/ _` \ \ / / _` \___ \ / __| '__| | '_ \| __|
 | |_| | (_| |\ V / (_| |___) | (__| |  | | |_) | |_ 
  \___/ \__,_| \_/ \__,_|____/ \___|_|  |_| .__/ \__|
                                          |_|        
- 
+ ```
 
 # 💫 About Me:
 🔭 I’m currently working on myVisitme.be<br>🌱 I’m currently learning Express.js & React.js<br>⚡ Fun fact : I love going to the gym<br>📫 How to reach me : terry.henrard@outlook.com
