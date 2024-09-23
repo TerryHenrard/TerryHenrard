@@ -1,12 +1,11 @@
 ![Header](./github-header-image3.png)
 
-'
-      J      A     V     V    A      SSSS   CCCC  RRRR   III  PPPP  TTTTT
-      J     A A     V   V    A A    S       C     R   R   I   P   P   T  
-      J    AAAAA     V V    AAAAA    SSS    C     RRRR    I   PPPP    T  
-J     J   A     A     V    A     A      S   C     R  R    I   P       T  
- JJJJJ   A       A    V   A       A  SSSS    CCCC R   R  III  P       T  
-'
+     _                  ____            _       _   
+    | | __ ___   ____ _/ ___|  ___ _ __(_)_ __ | |_ 
+ _  | |/ _` \ \ / / _` \___ \ / __| '__| | '_ \| __|
+| |_| | (_| |\ V / (_| |___) | (__| |  | | |_) | |_ 
+ \___/ \__,_| \_/ \__,_|____/ \___|_|  |_| .__/ \__|
+                                         |_|        
  
 
 # 💫 About Me:
