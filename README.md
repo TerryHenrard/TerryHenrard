@@ -1,10 +1,13 @@
 ![Header](./github-header-image3.png)
 
+'
       J      A     V     V    A      SSSS   CCCC  RRRR   III  PPPP  TTTTT
       J     A A     V   V    A A    S       C     R   R   I   P   P   T  
       J    AAAAA     V V    AAAAA    SSS    C     RRRR    I   PPPP    T  
 J     J   A     A     V    A     A      S   C     R  R    I   P       T  
  JJJJJ   A       A    V   A       A  SSSS    CCCC R   R  III  P       T  
+'
+ 
 
 # 💫 About Me:
 🔭 I’m currently working on myVisitme.be<br>🌱 I’m currently learning Express.js & React.js<br>⚡ Fun fact : I love going to the gym<br>📫 How to reach me : terry.henrard@outlook.com
