@@ -1,25 +1,21 @@
-![Header](./github-header-image3.png)
+# Terry Henrard
 
-# 💫 About Me:
-🔭 I’m currently working on visit me<br>🌱 I’m currently mastering Next.JS<br>📫 How to reach me : terry.henrard@outlook.com
+Développeur full-stack & IA indépendant, basé à Charleroi. Je construis des outils
+sur mesure pour les entreprises : applications web, automatisations et agents IA.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/terryhenrard) 
+- [VISIT ME](https://visitme.be) : plateforme belge de visites virtuelles 3D, que j'ai
+  cofondée et que je développe depuis 2023.
+- Un agent IA de service client pour Thomas & Piron, construit pendant mon stage au
+  Microsoft Innovation Center (2025).
+- [meeting-transcriber](https://github.com/TerryHenrard/meeting-transcriber) : transcription
+  locale de réunions avec identification des locuteurs.
 
-### **Favorite Technologies (JavaScript Ecosystem):**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+La plupart de mon travail client est dans des dépôts privés. Le graphique de contributions
+compte cette activité, sans montrer le code.
 
-### **Other Technologies:**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+Stack : TypeScript, React, Next.js, Node.js, Python, PostgreSQL.
 
-### **Databases:**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+Contact : terry@henrard.ai | [henrard.ai](https://henrard.ai) | [LinkedIn](https://www.linkedin.com/in/terry-henrard)
 
-### **Front-end:**
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **Tools and Services:**
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-
-### **Design and Prototyping:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+*English: freelance full-stack & AI developer in Belgium. Most of my client work lives in
+private repositories. Get in touch: terry@henrard.ai*
